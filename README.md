@@ -18,8 +18,8 @@ Here you'll find practical projects as I progress:
 Follow along as i build this out🪴
 ## About
 I'm learning DevOps through the IBM Professional Certificate on Coursera and building a strong foundation in:
-Cloud, containers and kubernetes
-CI/CD and automation
-Monitoring, security and observability
+Cloud, containers and kubernetes.
+CI/CD and automation.
+Monitoring, security and observability.
 
 This repo will grow as my skills do - stay tuned.🚀
